@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosCicloFor" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosClaseMath" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosOperadores" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosVariables" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/holaMundo" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/test" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,44 @@
+<application>
+  <component name="VimJumpsSettings">
+    <project id="test-65ead64a">
+      <jump line="5" column="12" filename="$USER_HOME$/IdeaProjects/test/src/Main.java" protocol="file" />
+    </project>
+    <project id="EjerciciosCicloFor-eb8c0063">
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/EjerciciosCicloFor/src/Main.java" protocol="file" />
+      <jump line="2" column="24" filename="$USER_HOME$/IdeaProjects/EjerciciosCicloFor/src/ClasesFor/Ejercicio2.java" protocol="file" />
+      <jump line="2" column="24" filename="$USER_HOME$/IdeaProjects/EjerciciosCicloFor/src/ClasesFor/Ejercicio3.java" protocol="file" />
+      <jump line="2" column="24" filename="$USER_HOME$/IdeaProjects/EjerciciosCicloFor/src/ClasesFor/Ejercicio4.java" protocol="file" />
+      <jump line="2" column="24" filename="$USER_HOME$/IdeaProjects/EjerciciosCicloFor/src/ClasesFor/Ejercicio1.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/EjerciciosOperadores/src/Main.java" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/IdeaProjects/test/src/Main.java" timestamp="1722888814983">
+        <mark key="&quot;" line="6" column="26" />
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="7" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

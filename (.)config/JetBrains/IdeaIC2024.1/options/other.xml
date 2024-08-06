@@ -1,0 +1,104 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="com.tabnineCommon.actions.ManualLoginAction" />
+      <option value="SettingsSyncOpenSettingsAction" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrainsMono Nerd Font Mono" />
+    <option name="fontSize" value="13.0" />
+    <option name="ideScale" value="1.3" />
+    <option name="presentationModeIdeScale" value="1.3" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "BuildView.Splitter.Proportion": "0.9230769",
+    "DISTRACTION.MODE.ENTER.VALUE": "false",
+    "GRAZIE_RULE_FILTER": "languages",
+    "InstalledPluginsSearchHistory": "spell\ntab\ntabn\ntabni\nta",
+    "KEYMAP": "run\nresiz",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "MarketplacePluginsSearchHistory": "inde\nindet\nind\nin\nscop",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "SettingsSearchHistory": "comment\nautosave\nSelect tab\n1\ntabs",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.show.successful.steps.selection.state": "true",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "241.18034.62",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.new.terminal.promotion": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1722889048184",
+    "installed.kotlin.plugin.version": "241.18034.62-IJ",
+    "is-getting-started-opened": "true",
+    "jdk.selected.JAVA_MODULE": "22",
+    "last_opened_file_path": "/home/manueld1az/IdeaProjects/holaMundo",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.autoReset": "true",
+    "mt.showInstallAtom": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Material Deep Ocean",
+    "project.wizard.group": "NPW.simple-project.Java",
+    "registry.to.advanced.settings.migration.build": "IC-241.18034.62",
+    "settings.code.style.selected.tab.EditorConfig": "Wrapping and Braces",
+    "settings.code.style.selected.tab.JAVA": "Tabs and Indents",
+    "toolwindow.showToolWindowsNames.ts": "2024-07-30T10:50:48.220314808"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/manueld1az/IdeaProjects/EjerciciosClaseMath/src/ClaseMath/Ejercicio2.java",
+      "/home/manueld1az/IdeaProjects/EjerciciosOperadores/src/Main.java",
+      "/home/manueld1az/IdeaProjects/EjerciciosClaseMath/src/ClaseMath/Ejercicio3.java",
+      "/home/manueld1az/IdeaProjects/EjerciciosClaseMath/src/Main.java",
+      "/home/manueld1az/IdeaProjects/EjerciciosClaseMath/src/ClaseMath/Ejercicio4.java",
+      "/home/manueld1az/IdeaProjects/holaMundo/src/Main.java",
+      "/home/manueld1az/IdeaProjects/holaMundo"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

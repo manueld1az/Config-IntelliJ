@@ -1,0 +1,55 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="84ffff" />
+        <option name="overrideAccentColor" value="false" />
+      </MTAccentConfigState>
+    </option>
+    <option name="compactState">
+      <MTCompactConfigState>
+        <option name="compactDropdowns" value="true" />
+        <option name="compactFields" value="true" />
+        <option name="compactMenus" value="true" />
+        <option name="compactStatusBar" value="true" />
+        <option name="compactTables" value="true" />
+      </MTCompactConfigState>
+    </option>
+    <option name="contrastState">
+      <MTContrastConfigState>
+        <option name="contrastMode" value="true" />
+      </MTContrastConfigState>
+    </option>
+    <option name="featuresState">
+      <MTFeaturesConfigState>
+        <option name="animatedToolWindows" value="false" />
+        <option name="fileStatusColorsEnabled" value="false" />
+      </MTFeaturesConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="fcff61a:191044bdb29:-8000" />
+        <option name="version" value="9.3.1" />
+      </MTMetadataState>
+    </option>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="animatedTabs" value="false" />
+        <option name="tabsHeight" value="24" />
+      </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="DEEPOCEAN" />
+      </MTThemeConfigState>
+    </option>
+    <option name="uiComponentsState">
+      <MTUiComponentsConfigState>
+        <option name="accentScrollbars" value="false" />
+        <option name="materialDesignStyle" value="V1" />
+        <option name="upperCaseButtons" value="false" />
+      </MTUiComponentsConfigState>
+    </option>
+  </component>
+</application>

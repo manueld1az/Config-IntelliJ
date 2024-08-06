@@ -1,0 +1,105 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/holaMundo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="holaMundo [~/IdeaProjects/holaMundo] – /home/manueld1az/IdeaProjects/holaMundo/src/Main.java" projectWorkspaceId="2jvv2kwQ1rU5GJutCRiyv3tXuhj">
+              <option name="activationTimestamp" value="1722363818166" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1719099420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1722299027592" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosClaseMath">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EjerciciosClaseMath [~/IdeaProjects/EjerciciosClaseMath] – /home/manueld1az/IdeaProjects/EjerciciosClaseMath/src/Main.java" projectWorkspaceId="2jyekY9w68llbwmWFmjs1Xg5hh4">
+              <option name="activationTimestamp" value="1722532980047" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1719099420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="24" width="1920" height="1056" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1722527762423" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosOperadores">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EjerciciosOperadores [~/IdeaProjects/EjerciciosOperadores] – /home/manueld1az/IdeaProjects/EjerciciosOperadores/src/Main.java" projectWorkspaceId="2k4cBr2idcenPAwbpJGjTCDL8tF">
+              <option name="activationTimestamp" value="1722559593969" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1719099420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="13" y="37" width="1894" height="1030" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1722558689945" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosVariables">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EjerciciosVariables [~/IdeaProjects/EjerciciosVariables]" projectWorkspaceId="2k54JHDEaGjy6KpO3yfgjiDPzSk">
+              <option name="activationTimestamp" value="1722561617422" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1719099420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="10" y="34" width="1900" height="1036" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1722560030070" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test [~/IdeaProjects/test] – /home/manueld1az/IdeaProjects/test/src/Main.java" projectWorkspaceId="2k58O8n37VKiCJRWZiaWVTyZoYC">
+              <option name="activationTimestamp" value="1722888811911" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1719099420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="24" width="1920" height="1056" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1722562042594" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/EjerciciosCicloFor">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2kFpBpdwFX6TdculKG90jTBCtNS">
+              <option name="activationTimestamp" value="1722896828400" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.18034.62" />
+              <option name="buildTimestamp" value="1719099420000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1722889045570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/IdeaProjects/EjerciciosCicloFor" />
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

@@ -1,0 +1,29 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1920" height="835" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1920" height="835" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1920" height="835" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1920" height="835" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="24" width="1920" height="1056" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="747" y="322" width="426" height="460" key="FileChooserDialogImpl" timestamp="1722299024579">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="322" width="426" height="460" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1722299024579" />
+    <state width="692" height="211" key="ShowUsagesActions.dimensionServiceKey.inPresentationMode.ideScale=130" timestamp="1722531652797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="692" height="211" key="ShowUsagesActions.dimensionServiceKey.inPresentationMode.ideScale=130/0.0.1920.1080" timestamp="1722531652797" />
+    <state x="-5" y="0" width="810" height="1080" key="new project wizard.ideScale=130" timestamp="1722889045196">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-5" y="0" width="810" height="1080" key="new project wizard.ideScale=130/0.0.1920.1080" timestamp="1722889045196" />
+    <state x="-1" y="0" width="800" height="1080" key="new project wizard.inPresentationMode.ideScale=130" timestamp="1722363887175">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1" y="0" width="800" height="1080" key="new project wizard.inPresentationMode.ideScale=130/0.0.1920.1080" timestamp="1722363887175" />
+  </component>
+</application>
